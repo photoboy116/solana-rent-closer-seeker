@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.photoboy116.rentcloser",
+      "sha256_cert_fingerprints": [
+        "9B:14:F8:D6:49:96:70:55:55:B9:3F:0A:06:5A:1B:74:F1:FB:D3:6E:E7:A4:20:18:FB:79:19:AC:99:62:19:B9"
+      ]
+    }
+  }
+]
