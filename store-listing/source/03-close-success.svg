@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="success" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#9cf7c9"/>
+      <stop offset="1" stop-color="#7dd8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="#121417"/>
+  <circle cx="540" cy="520" r="300" fill="url(#success)" opacity="0.22"/>
+  <circle cx="540" cy="520" r="184" fill="#181c20" stroke="#9cf7c9" stroke-width="10"/>
+  <path d="M442 522l64 64 138-164" fill="none" stroke="#9cf7c9" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="80" y="930" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34" font-weight="700">TRANSACTION COMPLETE</text>
+  <text x="80" y="1042" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="96" font-weight="800">Rent reclaimed</text>
+  <text x="80" y="1122" fill="#d9e0e4" font-family="Arial, sans-serif" font-size="42">Close empty accounts and return SOL to your wallet.</text>
+
+  <rect x="80" y="1250" width="920" height="270" rx="28" fill="#181c20" stroke="#303841" stroke-width="4"/>
+  <text x="132" y="1330" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="28" font-weight="700">CLOSED ACCOUNTS</text>
+  <text x="132" y="1418" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="76" font-weight="800">8</text>
+  <text x="472" y="1330" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="28" font-weight="700">RECLAIMED</text>
+  <text x="472" y="1418" fill="#f7d36b" font-family="Arial, sans-serif" font-size="76" font-weight="800">0.016 SOL</text>
+
+  <rect x="80" y="1588" width="920" height="112" rx="18" fill="#20262b"/>
+  <text x="132" y="1658" fill="#7dd8ff" font-family="Arial, sans-serif" font-size="34" font-weight="800">View transaction on Solscan</text>
+
+  <text x="80" y="1814" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="52" font-weight="800">Non-custodial by design</text>
+  <text x="80" y="1878" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34">Your wallet signs every transaction.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <rect x="0" y="0" width="1080" height="520" fill="#1d2328"/>
+  <circle cx="1000" cy="160" r="280" fill="#9cf7c9" opacity="0.14"/>
+  <text x="80" y="168" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34" font-weight="700">EMPTY TOKEN ACCOUNTS</text>
+  <text x="80" y="276" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="96" font-weight="800">Review before</text>
+  <text x="80" y="386" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="96" font-weight="800">you close</text>
+
+  <rect x="90" y="590" width="900" height="1040" rx="40" fill="#181c20" stroke="#303841" stroke-width="4"/>
+  <rect x="140" y="660" width="800" height="136" rx="18" fill="#20262b"/>
+  <text x="178" y="716" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="25" font-weight="700">ESTIMATED RENT</text>
+  <text x="178" y="770" fill="#f7d36b" font-family="Arial, sans-serif" font-size="52" font-weight="800">0.01472 SOL</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="140" y="860" width="800" height="132" rx="18" fill="#20262b"/>
+    <rect x="176" y="904" width="42" height="42" rx="8" fill="#9cf7c9"/>
+    <text x="250" y="918" fill="#f6f7f3" font-size="36" font-weight="800">7xQp...m1K9</text>
+    <text x="250" y="960" fill="#a6b0b7" font-size="26">SPL Token account</text>
+    <text x="722" y="940" fill="#f7d36b" font-size="30" font-weight="800">0.002 SOL</text>
+
+    <rect x="140" y="1022" width="800" height="132" rx="18" fill="#20262b"/>
+    <rect x="176" y="1066" width="42" height="42" rx="8" fill="#9cf7c9"/>
+    <text x="250" y="1080" fill="#f6f7f3" font-size="36" font-weight="800">4hBt...P2qa</text>
+    <text x="250" y="1122" fill="#a6b0b7" font-size="26">Token-2022 account</text>
+    <text x="722" y="1102" fill="#f7d36b" font-size="30" font-weight="800">0.002 SOL</text>
+
+    <rect x="140" y="1184" width="800" height="132" rx="18" fill="#20262b"/>
+    <rect x="176" y="1228" width="42" height="42" rx="8" fill="#9cf7c9"/>
+    <text x="250" y="1242" fill="#f6f7f3" font-size="36" font-weight="800">8pNz...Zc43</text>
+    <text x="250" y="1284" fill="#a6b0b7" font-size="26">SPL Token account</text>
+    <text x="722" y="1264" fill="#f7d36b" font-size="30" font-weight="800">0.002 SOL</text>
+
+    <rect x="140" y="1370" width="800" height="104" rx="18" fill="#9cf7c9"/>
+    <text x="402" y="1436" fill="#121417" font-size="34" font-weight="800">Close selected</text>
+  </g>
+
+  <text x="80" y="1784" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="54" font-weight="800">Stay in control</text>
+  <text x="80" y="1852" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34">Choose exactly which accounts to close.</text>
+</svg>
