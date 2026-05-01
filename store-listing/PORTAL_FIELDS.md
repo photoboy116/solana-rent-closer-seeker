@@ -6,7 +6,7 @@ Use these values when filling the Solana Mobile Publisher Portal.
 
 - App name: `Rent Closer`
 - Short name: `RentCloser`
-- Package name: `com.photoboy116.rentcloser`
+- Package name: `com.photoboy116.rentclose`
 - Website / PWA URL: `https://solana-rent-closer-seeker.vercel.app/`
 - Privacy policy URL: `https://solana-rent-closer-seeker.vercel.app/privacy.html`
 - Terms of Use URL: `https://solana-rent-closer-seeker.vercel.app/terms.html`
