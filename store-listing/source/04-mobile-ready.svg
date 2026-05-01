@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#121417"/>
+  <rect x="80" y="140" width="920" height="420" rx="36" fill="#1d2328"/>
+  <text x="130" y="260" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34" font-weight="700">BUILT FOR SEEKER</text>
+  <text x="130" y="374" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="94" font-weight="800">Mobile wallet</text>
+  <text x="130" y="484" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="94" font-weight="800">native flow</text>
+  <circle cx="900" cy="245" r="120" fill="#7dd8ff" opacity="0.16"/>
+
+  <rect x="210" y="700" width="660" height="790" rx="52" fill="#0f1215" stroke="#303841" stroke-width="6"/>
+  <rect x="250" y="780" width="580" height="610" rx="26" fill="#181c20"/>
+  <text x="300" y="900" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="56" font-weight="800">Approve in wallet</text>
+  <text x="300" y="972" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="32">Rent Closer prepares transactions.</text>
+  <text x="300" y="1026" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="32">Your wallet signs them.</text>
+  <rect x="300" y="1128" width="480" height="92" rx="18" fill="#9cf7c9"/>
+  <text x="408" y="1188" fill="#121417" font-family="Arial, sans-serif" font-size="34" font-weight="800">Review transaction</text>
+  <rect x="300" y="1250" width="480" height="92" rx="18" fill="#2d353c"/>
+  <text x="454" y="1310" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="34" font-weight="800">Cancel</text>
+
+  <text x="80" y="1712" fill="#f6f7f3" font-family="Arial, sans-serif" font-size="54" font-weight="800">No seed phrases. No custody.</text>
+  <text x="80" y="1780" fill="#a6b0b7" font-family="Arial, sans-serif" font-size="34">Every close-account action is wallet-approved.</text>
+</svg>

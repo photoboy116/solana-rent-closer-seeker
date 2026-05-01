@@ -9,6 +9,7 @@ Use these values when filling the Solana Mobile Publisher Portal.
 - Package name: `com.photoboy116.rentcloser`
 - Website / PWA URL: `https://solana-rent-closer-seeker.vercel.app/`
 - Privacy policy URL: `https://solana-rent-closer-seeker.vercel.app/privacy.html`
+- Terms of Use URL: `https://solana-rent-closer-seeker.vercel.app/terms.html`
 - GitHub / support URL: `https://github.com/photoboy116/solana-rent-closer-seeker`
 - Category: `Utilities` if available; otherwise `Finance`
 
@@ -55,6 +56,7 @@ Suggested order:
 1. `01-wallet-scan.png`
 2. `02-select-accounts.png`
 3. `03-close-success.png`
+4. `04-mobile-ready.png`
 
 ## Important Signing Files
 
